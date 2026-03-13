@@ -1,6 +1,6 @@
 **MOAS** é uma plataforma em desenvolvimento para a gestão e monitoramento em tempo real de operações logísticas. O sistema foca em garantir a rastreabilidade total de cargas e descargas, documentando cada etapa com evidências fotográficas e métricas operacionais em tempo real.
 
-Evolução do Projeto
+Evolução do Projeto:
 O projeto nasceu como uma ferramenta interna e passou por um processo de **profissionalização de arquitetura**, migrando de um gerenciamento de acesso estático para uma infraestrutura escalável.
 
 Funcionalidades Principais
