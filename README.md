@@ -13,6 +13,6 @@ Funcionalidades Principais
   - `Comercial`: Acesso apenas para consulta e geração de relatórios.
 - **Segurança Avançada:** Implementação de **Signed URLs** para proteção de mídias, garantindo que links de fotos expirem após 5 minutos.
 - **Trilha de Auditoria:** Histórico visual de edições em registros finalizados.
-
+- **Desafio - Legados:** Atualizações, adição de modulos ou ate mesmo manutenções sem necessidade de parar as operações.
 
 Este é um projeto privado em fase de MVP.
